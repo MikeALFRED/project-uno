@@ -1,0 +1,54 @@
+{
+    "products" : [
+        {
+            "id": "1",
+            "name": "Gym T-Shirt",
+            "price": "$20.00",
+            "brand": "ActiveWear",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjJBAq7IPDEoJeIhximpIYu35btMnNoFO2Q&s"
+        },
+        {
+            "id": "2",
+            "name": "Gym Shorts",
+            "price": "$25.50",
+            "brand": "ActiveWear",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXO9MH48w2SD3LogTX8itbbKa-D4u-E069RQ&s"
+        },
+        {
+            "id": "3",
+            "name": "Sports Bra",
+            "price": "$30.00",
+            "brand": "GymShark",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEE8qfRoLlNe93r51c6Vx_n_UziTMGiqEPag&s"
+        },
+        {
+            "id":"4" ,
+            "name": "Gym Gloves",
+            "price": "$35.25",
+            "brand": "namiri",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3SF7K2s-zxZv5Iu91dbNoipfzchFyLZIpw&s"
+
+        },
+        {
+            "id": "5" ,
+            "name": "Water Bottle" ,
+            "price": "$25.00",
+            "brand": "namiri",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEzTcYqQdwEn3QoAshBUkaTRKm5Ud74-W2YgrnokMow&s"
+        },
+        {
+            "id": "6" ,
+            "name": "Gym bag",
+            "price":"$55.00" ,
+            "brand": "GymShark",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEqfnZqUr-Jweyb5Fiq6G0qewpaXtbqNH9Q&s"
+        },
+        {
+            "id":"7",
+            "name":"Gym blade sneskers",
+            "price":"$65.50",
+            "brand":"Blades",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfkwuZzrhO8u_wKY4LTOfavr5X_hIeHFbhQ&s"
+        }
+    ]
+}
